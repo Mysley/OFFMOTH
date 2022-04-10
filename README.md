@@ -1,7 +1,6 @@
 # Offmoth
-*Source codes for my game, Offmoth.*
-
-**In here will be listed every third-party assets used to create Offmoth. I have used a few free assets and also a few paid ones to make this game. Assets used
+**You are free to use or reverse-engineer my code as you wish. They are relatively simple C# codes made in quite a hurry and crunch time towards nearing the deadline of the game jam.
+In here will be listed every third-party assets used to create Offmoth. I have used a few free assets and also a few paid ones to make this game. Assets used
 includes sound effects, music, systems, characters and various arts, and few UI elements.**
 
 ## UNITY ASSET STORE - ( [assetstore.unity.com](assetstore.unity.com) ) ##
