@@ -6,7 +6,7 @@
 *In here will be listed every third-party assets used to create Offmoth. I have used a few free assets and also a few paid ones to make this game. Assets used
 includes sound effects, music, systems, characters and various arts, and few UI elements.*
 
-## UNITY ASSET STORE - ( [assetstore.unity.com](assetstore.unity.com) ) ##
+## UNITY ASSET STORE - ( [assetstore.unity.com](https://assetstore.unity.com) ) ##
 
 ### -- PAID --
 **Maintainer** : *https://assetstore.unity.com/packages/tools/utilities/maintainer-32199*
@@ -18,9 +18,14 @@ includes sound effects, music, systems, characters and various arts, and few UI 
 **8Bit Music Album - 05132** : *https://assetstore.unity.com/packages/audio/music/8bit-music-album-051321-196147* <br/>
 **TinyHealthSystem v1.0** : *https://assetstore.unity.com/packages/tools/gui/tinyhealthsystem-v1-0-181303* <br/>
 
-## GAMEDEV MARKET - ( [gamedevmarket.net](gamedevmarket.net) ) ##
+## GAMEDEV MARKET - ( [gamedevmarket.net](https://gamedevmarket.net) ) ##
 
 ### -- PAID --
 **16-Bit Sci-Fi Sprite Set** : *https://www.gamedevmarket.net/asset/16bit-scifi-sprite-set-1089/* <br/>
 **100 Pixel Icons** : *https://www.gamedevmarket.net/asset/100-pixel-icons-3836/* <br/>
 **Mega SFX Pack** : *https://www.gamedevmarket.net/asset/mega-sfx-pack/* <br/>
+
+## ITCH.IO - ( [https://itch.io/](https://itch.io/) ) ##
+
+### -- FREE --
+**Pixel Space Background Generator by Deep-Fold** : *https://deep-fold.itch.io/space-background-generator* <br/>
