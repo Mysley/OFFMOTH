@@ -10,7 +10,7 @@ includes sound effects, music, systems, characters and various arts, and few UI 
 
 ### -- PAID --
 **Maintainer** : *https://assetstore.unity.com/packages/tools/utilities/maintainer-32199* <br/>
-**Hierarchy Folders** : *https://assetstore.unity.com/packages/tools/utilities/hierarchy-folders-157716#description* <br/>
+**Hierarchy Folders** : *https://assetstore.unity.com/packages/tools/utilities/hierarchy-folders-157716* <br/>
 
 ### -- FREE --
 
