@@ -1,4 +1,4 @@
-# Offmoth
+# OFFMOTH
 *You are free to use or reverse-engineer my codes as you wish. They are relatively simple C# codes made in quite a hurry and crunch time towards nearing the deadline of the game jam.*
 
 ** **PAID ASSETS USED IS NOT IN THE SOURCE CODE!! THIS IS TO AVOID REDISTRIBUTION!!** **
